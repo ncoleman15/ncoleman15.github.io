@@ -1,0 +1,16 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+/*center nav bar*/
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+/*center for generic text*/
+.center {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
